@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">OdontoHistoria IA</string>
+
+    <!-- Login -->
+    <string name="login_titulo">OdontoHistoria IA</string>
+    <string name="login_hint_usuario">Correo o usuario</string>
+    <string name="login_hint_password">Contraseña</string>
+    <string name="login_boton">Iniciar sesión</string>
+    <string name="login_error_campos_vacios">Completa ambos campos</string>
+
+    <!-- Home -->
+    <string name="home_saludo_default">Hola</string>
+    <string name="home_proxima_cita_label">Próxima cita</string>
+    <string name="home_boton_odontograma">Ver mi odontograma</string>
+    <string name="home_boton_historial">Ver historial de tratamientos</string>
+
+    <!-- Odontograma -->
+    <string name="odontograma_titulo">Tu odontograma</string>
+    <string name="odontograma_instruccion">Toca un diente para cambiar su estado</string>
+    <string name="odontograma_leyenda">🟩 Sano   🟥 Caries   🟦 Tratado</string>
+
+    <!-- Historial -->
+    <string name="historial_titulo">Historial de tratamientos</string>
+</resources>
