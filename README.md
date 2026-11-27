@@ -20,6 +20,12 @@ App móvil del paciente de la clínica dental **Fassiara**. Forma parte del proy
 
 Java · Android (Room 2.6, Retrofit 2.9, Gson, OkHttp) · ViewModel/LiveData · Gradle (Kotlin DSL).
 
+## Requisitos
+
+- Android Studio reciente: el proyecto usa Android Gradle Plugin 9.3, Gradle 9.5 y compileSdk 37 (Android Studio ofrece descargar el SDK Android 37 al abrirlo).
+- Un emulador o celular con Android 7.0 (API 24) o superior.
+- Node.js 20.19 o superior para el backend y el panel (se probó con la 22).
+
 ## Cómo probarla
 
 1. Encender el backend:
